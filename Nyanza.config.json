@@ -1,0 +1,11 @@
+{
+  "archiveSavedOn" : "",
+  "archiveFileName": "archiveName",
+  "archiveFilePrefixName" : "date",
+  "passwordEnabled" : false,
+  "archiveDeletable" : true,
+  "archiveAutoUpload" : true,
+  "archiveEntryPointMax" : 2000,
+  "archiveUploadServer" : "",
+  "archiveAttachmentSavePoint" : ""
+}
